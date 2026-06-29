@@ -11,7 +11,6 @@ static int a[]={1,2,4,7,12,17,20,3};
         }
         return true;
     }
-
     public static void main(String[] args) {
         if(isSorted(a)){
             System.out.println("Array is Sorted");
