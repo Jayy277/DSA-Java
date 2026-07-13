@@ -1,4 +1,3 @@
-import java.util.*;
 public class removeduplicates {
        static int arr[]={1,2,2,3,3,3,4,5,5};
     static int removedupli(int arr[]){
